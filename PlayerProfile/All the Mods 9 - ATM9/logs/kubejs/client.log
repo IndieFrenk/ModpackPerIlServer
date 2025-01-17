@@ -1,40 +1,39 @@
-[15:37:54] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[15:37:54] [INIT] Loaded plugins:
-[15:37:54] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[15:37:54] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[15:37:54] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[15:37:54] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[15:37:54] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[15:37:54] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[15:37:54] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[15:37:54] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[15:37:54] [INIT] - com.almostreliable.morejs.Plugin
-[15:37:54] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[15:37:54] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
-[15:37:54] [INFO] Loaded script client_scripts:jei_add.js in 0.0 s
-[15:37:54] [INFO] Loaded script client_scripts:jei_hide.js in 0.002 s
-[15:37:54] [INFO] Loaded script client_scripts:jei_info.js in 0.0 s
-[15:37:54] [INFO] Loaded script client_scripts:load_model_fix.js in 0.001 s
-[15:37:54] [INFO] Loaded script client_scripts:mekanismClient.js in 0.001 s
-[15:37:54] [INFO] observeGT.js#15: Loaded Java class 'com.gregtechceu.gtceu.api.blockentity.MetaMachineBlockEntity'
-[15:37:54] [INFO] observeGT.js#16: Loaded Java class 'com.gregtechceu.gtceu.api.machine.feature.multiblock.IMultiController'
-[15:37:54] [INFO] observeGT.js#17: Loaded Java class 'net.minecraft.nbt.CompoundTag'
-[15:37:54] [INFO] Loaded script client_scripts:observeGT.js in 0.01 s
-[15:37:54] [INFO] observeMekanism.js#4: Loaded Java class 'mekanism.common.tile.prefab.TileEntityMultiblock'
-[15:37:54] [INFO] observeMekanism.js#5: Loaded Java class 'mekanism.common.tile.base.TileEntityMekanism'
-[15:37:54] [INFO] Loaded script client_scripts:observeMekanism.js in 0.022 s
-[15:37:54] [INFO] Loaded script client_scripts:ponder/corail.js in 0.002 s
-[15:37:54] [INFO] Loaded script client_scripts:ponder/fission_mek.js in 0.001 s
-[15:37:54] [INFO] Loaded script client_scripts:ponder/fission_mek_fuelrod.js in 0.001 s
-[15:37:54] [INFO] Loaded script client_scripts:ponder/fission_mek_logic.js in 0.001 s
-[15:37:54] [INFO] Loaded script client_scripts:ponder/fission_mek_port.js in 0.001 s
-[15:37:54] [INFO] Loaded script client_scripts:ponder/fusion_activate.js in 0.001 s
-[15:37:54] [INFO] Loaded script client_scripts:ponder/fusion_reactor.js in 0.0 s
-[15:37:54] [INFO] Loaded script client_scripts:ponder/induction_mek.js in 0.001 s
-[15:37:54] [INFO] Loaded script client_scripts:ponder/pylons.js in 0.001 s
-[15:37:54] [INFO] Loaded script client_scripts:ponder/sps.js in 0.001 s
-[15:37:54] [INFO] Loaded script client_scripts:ponder/turbine_mek.js in 0.001 s
-[15:37:54] [INFO] Loaded script client_scripts:tooltips.js in 0.002 s
-[15:37:54] [INFO] Loaded 19/19 KubeJS client scripts in 0.087 s with 0 errors and 0 warnings
-[15:38:23] [INFO] Client resource reload complete!
-[15:44:41] [INFO] Client resource reload complete!
+[17:34:21] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[17:34:21] [INIT] Loaded plugins:
+[17:34:21] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:34:21] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[17:34:21] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[17:34:21] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[17:34:21] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[17:34:21] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[17:34:21] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[17:34:21] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[17:34:21] [INIT] - com.almostreliable.morejs.Plugin
+[17:34:21] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[17:34:21] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[17:34:21] [INFO] Loaded script client_scripts:jei_add.js in 0.001 s
+[17:34:21] [INFO] Loaded script client_scripts:jei_hide.js in 0.002 s
+[17:34:21] [INFO] Loaded script client_scripts:jei_info.js in 0.0 s
+[17:34:21] [INFO] Loaded script client_scripts:load_model_fix.js in 0.001 s
+[17:34:21] [INFO] Loaded script client_scripts:mekanismClient.js in 0.001 s
+[17:34:21] [INFO] observeGT.js#15: Loaded Java class 'com.gregtechceu.gtceu.api.blockentity.MetaMachineBlockEntity'
+[17:34:21] [INFO] observeGT.js#16: Loaded Java class 'com.gregtechceu.gtceu.api.machine.feature.multiblock.IMultiController'
+[17:34:21] [INFO] observeGT.js#17: Loaded Java class 'net.minecraft.nbt.CompoundTag'
+[17:34:21] [INFO] Loaded script client_scripts:observeGT.js in 0.013 s
+[17:34:21] [INFO] observeMekanism.js#4: Loaded Java class 'mekanism.common.tile.prefab.TileEntityMultiblock'
+[17:34:21] [INFO] observeMekanism.js#5: Loaded Java class 'mekanism.common.tile.base.TileEntityMekanism'
+[17:34:21] [INFO] Loaded script client_scripts:observeMekanism.js in 0.034 s
+[17:34:21] [INFO] Loaded script client_scripts:ponder/corail.js in 0.002 s
+[17:34:21] [INFO] Loaded script client_scripts:ponder/fission_mek.js in 0.001 s
+[17:34:21] [INFO] Loaded script client_scripts:ponder/fission_mek_fuelrod.js in 0.001 s
+[17:34:21] [INFO] Loaded script client_scripts:ponder/fission_mek_logic.js in 0.001 s
+[17:34:21] [INFO] Loaded script client_scripts:ponder/fission_mek_port.js in 0.0 s
+[17:34:21] [INFO] Loaded script client_scripts:ponder/fusion_activate.js in 0.002 s
+[17:34:21] [INFO] Loaded script client_scripts:ponder/fusion_reactor.js in 0.001 s
+[17:34:21] [INFO] Loaded script client_scripts:ponder/induction_mek.js in 0.002 s
+[17:34:21] [INFO] Loaded script client_scripts:ponder/pylons.js in 0.002 s
+[17:34:21] [INFO] Loaded script client_scripts:ponder/sps.js in 0.001 s
+[17:34:21] [INFO] Loaded script client_scripts:ponder/turbine_mek.js in 0.002 s
+[17:34:21] [INFO] Loaded script client_scripts:tooltips.js in 0.003 s
+[17:34:21] [INFO] Loaded 19/19 KubeJS client scripts in 0.111 s with 0 errors and 0 warnings
+[17:34:45] [INFO] Client resource reload complete!
