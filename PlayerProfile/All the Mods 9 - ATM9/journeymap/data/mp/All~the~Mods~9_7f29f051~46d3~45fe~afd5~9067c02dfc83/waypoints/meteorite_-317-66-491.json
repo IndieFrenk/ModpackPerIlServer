@@ -1,0 +1,22 @@
+{
+  "id": "meteorite_-317-66-491",
+  "name": "meteorite",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--3725083-waypoint-icon.png",
+  "x": -317,
+  "y": 66,
+  "z": -491,
+  "r": 199,
+  "g": 40,
+  "b": 229,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

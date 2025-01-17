@@ -1,0 +1,22 @@
+{
+  "id": "tesori_-225-11-599",
+  "name": "tesori",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16739750-waypoint-icon.png",
+  "x": -225,
+  "y": 11,
+  "z": -599,
+  "r": 0,
+  "g": 146,
+  "b": 90,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
