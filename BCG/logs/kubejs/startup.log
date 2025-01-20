@@ -1,0 +1,9 @@
+[13:40:55] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[13:40:55] [INIT] Loaded plugins:
+[13:40:55] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[13:40:55] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[13:40:55] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[13:40:55] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[13:40:55] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[13:40:55] [INFO] Loaded script startup_scripts:Items.js in 0.039 s
+[13:40:55] [INFO] Loaded 1/1 KubeJS startup scripts in 0.216 s with 0 errors and 0 warnings

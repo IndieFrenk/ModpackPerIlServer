@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "5841880c482835ecafe53c208650283f"
+	name: "Herobrine52#5841880c"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		704DF932A070B564: 1
+	}
+	started: {
+		0000000000000001: 1737329476614L
+		2C094BFE8AF8DF04: 1737329476614L
+		704DF932A070B564: 1737329476614L
+		077BEA063CFEA28B: 1737329476614L
+	}
+	completed: {
+		2C094BFE8AF8DF04: 1737329476617L
+		704DF932A070B564: 1737329476617L
+	}
+	claimed_rewards: {
+		"5841880c482835ecafe53c208650283f:30DE90BBB8F9CF4F": 1737329502851L
+	}
+	player_data: { }
+	repeated_completions: { }
+}

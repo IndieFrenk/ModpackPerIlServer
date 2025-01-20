@@ -1,0 +1,89 @@
+{
+  "uuid": "5841880c-4828-35ec-afe5-3c208650283f",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "1cc033c2-2e11-48cb-a8e1-97fa57c91f64",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "litten": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737329619546,
+            "caughtTimestamp": 1737329619546
+          }
+        },
+        "muk": {
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737330863542,
+            "caughtTimestamp": 1737330863542
+          }
+        },
+        "doduo": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737330956958,
+            "caughtTimestamp": 1737330956958
+          }
+        },
+        "cottonee": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737333566501,
+            "caughtTimestamp": 1737333566501
+          }
+        },
+        "flaaffy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737333656656,
+            "caughtTimestamp": 1737333656656
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 4,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 12,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 12,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "poison": 1,
+      "dark": 1,
+      "normal": 1,
+      "flying": 1,
+      "grass": 1,
+      "fairy": 1,
+      "electric": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:mareep": 1,
+      "cobblemon:poochyena": 1,
+      "cobblemon:bunnelby": 2,
+      "cobblemon:tauros": 2,
+      "cobblemon:gastly": 1,
+      "cobblemon:combee": 1
+    },
+    "aspectsCollected": {}
+  }
+}

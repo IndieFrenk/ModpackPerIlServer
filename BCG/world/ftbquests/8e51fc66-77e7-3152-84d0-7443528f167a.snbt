@@ -1,0 +1,23 @@
+{
+	version: 1
+	uuid: "8e51fc6677e7315284d07443528f167a"
+	name: "Kekko1406#8e51fc66"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		704DF932A070B564: 1
+	}
+	started: {
+		0000000000000001: 1737329482348L
+		2C094BFE8AF8DF04: 1737329482348L
+		704DF932A070B564: 1737329482348L
+		077BEA063CFEA28B: 1737329482348L
+	}
+	completed: {
+		2C094BFE8AF8DF04: 1737329482348L
+		704DF932A070B564: 1737329482348L
+	}
+	claimed_rewards: { }
+	player_data: { }
+	repeated_completions: { }
+}
