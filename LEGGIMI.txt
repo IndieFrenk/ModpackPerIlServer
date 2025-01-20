@@ -1,4 +1,3 @@
 Per avviare il server basta avviare il file run.bat
 
-I player devono aggiungere un profilo di minecraft e sostituiscono tutti i file
-con quelli forniti nel playerprofile
+I player devono Scaricare Big Chad Guys da curseforge

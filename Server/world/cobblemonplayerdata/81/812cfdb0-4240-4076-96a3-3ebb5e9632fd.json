@@ -5,7 +5,16 @@
   "starterSelected": false,
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
-  "extraData": {},
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {},
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
   "advancementData": {
     "totalCaptureCount": 0,
     "totalEggsHatched": 0,

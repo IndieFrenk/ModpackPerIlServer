@@ -1,0 +1,90 @@
+{
+  "uuid": "8e51fc66-77e7-3152-84d0-7443528f167a",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "bac4ad0f-4a42-4dba-b7af-c7096a9bb91d",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "turtwig": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737329647363,
+            "caughtTimestamp": 1737329647363
+          }
+        },
+        "phanpy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737331079202,
+            "caughtTimestamp": 1737331079202
+          }
+        },
+        "buizel": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737331590269,
+            "caughtTimestamp": 1737331590269
+          }
+        },
+        "grotle": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737334092250,
+            "caughtTimestamp": 1737334092250
+          }
+        },
+        "salandit": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737335568401,
+            "caughtTimestamp": 1737335568401
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 3,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 14,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 14,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "ground": 1,
+      "water": 1,
+      "poison": 1,
+      "fire": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:rhyhorn": 1,
+      "cobblemon:combee": 2,
+      "cobblemon:taillow": 2,
+      "cobblemon:zigzagoon": 1,
+      "cobblemon:plusle": 1,
+      "cobblemon:patrat": 1,
+      "cobblemon:rattata": 1,
+      "cobblemon:salandit": 1,
+      "cobblemon:lechonk": 1,
+      "cobblemon:wooloo": 1
+    },
+    "aspectsCollected": {}
+  }
+}

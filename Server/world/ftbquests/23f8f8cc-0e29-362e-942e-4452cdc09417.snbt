@@ -1,0 +1,23 @@
+{
+	version: 1
+	uuid: "23f8f8cc0e29362e942e4452cdc09417"
+	name: "Sgranfrix69#23f8f8cc"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		704DF932A070B564: 1
+	}
+	started: {
+		0000000000000001: 1737329486157L
+		2C094BFE8AF8DF04: 1737329486157L
+		704DF932A070B564: 1737329486157L
+		077BEA063CFEA28B: 1737329486157L
+	}
+	completed: {
+		2C094BFE8AF8DF04: 1737329486157L
+		704DF932A070B564: 1737329486157L
+	}
+	claimed_rewards: { }
+	player_data: { }
+	repeated_completions: { }
+}

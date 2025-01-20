@@ -1,0 +1,23 @@
+{
+	version: 1
+	uuid: "17444477f1b63b9b91bfb55c61b1dc11"
+	name: "NabboPower#17444477"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		704DF932A070B564: 1
+	}
+	started: {
+		0000000000000001: 1737329706193L
+		2C094BFE8AF8DF04: 1737329706193L
+		704DF932A070B564: 1737329706193L
+		077BEA063CFEA28B: 1737329706193L
+	}
+	completed: {
+		2C094BFE8AF8DF04: 1737329706194L
+		704DF932A070B564: 1737329706194L
+	}
+	claimed_rewards: { }
+	player_data: { }
+	repeated_completions: { }
+}

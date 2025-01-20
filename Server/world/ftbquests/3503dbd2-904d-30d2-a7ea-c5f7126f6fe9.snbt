@@ -1,0 +1,23 @@
+{
+	version: 1
+	uuid: "3503dbd2904d30d2a7eac5f7126f6fe9"
+	name: "FadeFox42#3503dbd2"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		704DF932A070B564: 1
+	}
+	started: {
+		0000000000000001: 1737329577249L
+		2C094BFE8AF8DF04: 1737329577249L
+		704DF932A070B564: 1737329577249L
+		077BEA063CFEA28B: 1737329577249L
+	}
+	completed: {
+		2C094BFE8AF8DF04: 1737329577250L
+		704DF932A070B564: 1737329577250L
+	}
+	claimed_rewards: { }
+	player_data: { }
+	repeated_completions: { }
+}

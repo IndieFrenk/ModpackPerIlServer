@@ -1,9 +1,0 @@
-#35F biomesoplenty:jacaranda_glade
-#65C biomesoplenty:lavender_field
-#47F biomesoplenty:mediterranean_forest
-#552 biomesoplenty:old_growth_woodland
-#5A5 biomesoplenty:orchard
-#3DC minecraft:plains
-#5FF minecraft:river
-#67B minecraft:savanna
-#7F2 biomesoplenty:woodland

@@ -1,0 +1,75 @@
+{
+  "uuid": "3503dbd2-904d-30d2-a7ea-c5f7126f6fe9",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "5c976cc6-e2e3-4dcf-b509-c9348a30ddc8",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "fennekin": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737329771439,
+            "caughtTimestamp": 1737329771439
+          }
+        },
+        "braixen": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737333828109,
+            "caughtTimestamp": 1737333828109
+          }
+        },
+        "mareep": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737333905703,
+            "caughtTimestamp": 1737333905703
+          }
+        },
+        "golduck": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737337951699,
+            "caughtTimestamp": 1737337951699
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 2,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 7,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 7,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "electric": 1,
+      "water": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:bunnelby": 1,
+      "cobblemon:caterpie": 1,
+      "cobblemon:snorunt": 1,
+      "cobblemon:pidgey": 1,
+      "cobblemon:misdreavus": 1
+    },
+    "aspectsCollected": {}
+  }
+}

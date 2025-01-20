@@ -1,0 +1,12 @@
+Id: createdeco:zinc_sheet_metal
+Type: minecraft:crafting_shaped
+Json: {"type":"minecraft:crafting_shaped","category":"misc","key":{"m":{"tag":"c:zinc_plates"}},"pattern":["mm","mm"],"result":{"count":4,"item":"createdeco:zinc_sheet_metal"},"show_notification":true}
+Items: 
+	createdeco:zinc_sheet (#c:zinc_plates)
+
+Id: createbigcannons:cast_iron_ingot
+Type: alloy_forgery:forging
+Json: {"type":"alloy_forgery:forging","inputs":[{"item":"minecraft:iron_ingot"}],"output":{"id":"createdeco:industrial_iron_ingot","count":1},"overrides":{"3+":{"id":"createbigcannons:cast_iron_ingot","count":2}},"min_forge_tier":2,"fuel_per_tick":10}
+Items: 
+	createbigcannons:cast_iron_ingot (#c:fried_iron)
+

@@ -1,0 +1,28 @@
+# Last execution: 20-01-2025 00:30:54
+# Overview:
+	- Unified: 919
+	- Duplicates: 17 (Individual: 36)
+	- Total Recipes: 18642
+	- Elapsed Time: 4667ms
+
+# Summary: 
+Recipe type                                   |    Unifies | Duplicates |   All
+-------------------------------------------------------------------------------
+alloy_forgery:forging                         |         17 |            |   117
+automobility:auto_mechanic_table              |         20 |            |    63
+bclib:alloying                                |          1 |            |     8
+create:compacting                             |          4 |    1 (  2) |    25
+create:crushing                               |         17 |            |   125
+create:deploying                              |          6 |            |    84
+create:haunting                               |          2 |            |    27
+create:mechanical_crafting                    |          2 |            |    81
+create:pressing                               |          8 |    1 (  2) |    38
+createaddition:rolling                        |          1 |            |    10
+guarding:smithing_transform_shield            |          1 |            |     1
+minecraft:blasting                            |         23 |    7 ( 15) |   186
+minecraft:crafting_shaped                     |        639 |            | 10871
+minecraft:crafting_shapeless                  |         61 |    1 (  2) |  2084
+minecraft:smelting                            |         23 |    7 ( 15) |   301
+minecraft:smithing_transform                  |         41 |            |   188
+minecraft:stonecutting                        |         52 |            |  3060
+travelersbackpack:backpack_shaped             |          1 |            |    42
