@@ -1,31 +1,31 @@
-[13:41:10] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
-[13:41:10] [INIT] Loaded plugins:
-[13:41:10] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
-[13:41:10] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[13:41:10] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[13:41:10] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[13:41:10] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[13:41:10] [INFO] Loaded script server_scripts:EggInfo.js in 0.004 s
-[13:41:10] [INFO] Loaded script server_scripts:Pickpocket.js in 0.008 s
-[13:41:10] [INFO] Loaded script server_scripts:Quests.js in 0.0 s
-[13:41:10] [INFO] Loaded script server_scripts:recipes/JoeCoins.js in 0.002 s
-[13:41:10] [INFO] Loaded script server_scripts:recipes/Sheets.js in 0.001 s
-[13:41:10] [INFO] Loaded script server_scripts:recipes/Shrinkifier.js in 0.001 s
-[13:41:10] [INFO] Loaded script server_scripts:recipes/Wallet.js in 0.0 s
-[13:41:10] [INFO] Loaded script server_scripts:Shrinkifier.js in 0.002 s
-[13:41:10] [INFO] Loaded script server_scripts:StarterKit.js in 0.001 s
-[13:41:10] [INFO] Loaded script server_scripts:Wallet.js in 0.002 s
-[13:41:10] [INFO] Loaded 10/10 KubeJS server scripts in 0.039 s with 0 errors and 0 warnings
-[13:41:10] [INFO] Scripts loaded
-[13:41:10] [INFO] Initializing recipe event...
-[13:41:27] [INFO] Processing recipes...
-[13:41:27] [WARN] Failed to parse recipe 'create_cobblemon:shapeless/lid_feather_dye[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[13:41:27] [WARN] Failed to parse recipe 'incendium:upgrade_elytra[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[13:41:27] [INFO] Found 18669 recipes in 167.7 ms
-[13:41:27] [INFO] Posted recipe events in 21.05 ms
-[13:41:27] [WARN] Error parsing recipe create_cobblemon:shapeless/lid_feather_dye[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","ingredients":[{"item":"create_cobblemon:sky_tumblestone_lid"},{"item":"minecraft:light_blue_dye"}],"result":{"item":"create_cobblemon:feather_ball_lid","count":1}}: Unknown item 'create_cobblemon:feather_ball_lid'
-[13:41:27] [WARN] Error parsing recipe create_cobblemon:assembly/sequenced_assembly_cherish_ball[create:sequenced_assembly]: {"type":"create:sequenced_assembly","ingredient":{"item":"create_cobblemon:red_ball_lid"},"transitionalItem":{"item":"create_cobblemon:incomplete_cherish_ball"},"sequence":[{"type":"create:deploying","ingredients":[{"item":"create_cobblemon:incomplete_cherish_ball"},[{"item":"create_cobblemon:red_ball_lid"}]],"results":[{"item":"create_cobblemon:incomplete_cherish_ball"}]},{"type":"create:deploying","ingredients":[{"item":"create_cobblemon:incomplete_cherish_ball"},[{"item":"minecraft:redstone"}]],"results":[{"item":"create_cobblemon:incomplete_cherish_ball"}]},{"type":"create:deploying","ingredients":[{"item":"create_cobblemon:incomplete_cherish_ball"},[{"item":"create:copper_nugget"}]],"results":[{"item":"create_cobblemon:incomplete_cherish_ball"}]}],"results":[{"item":"cobblemon:cherish_ball"}],"loops":1}: Unknown item 'create_cobblemon:incomplete_cherish_ball'
-[13:41:27] [WARN] Error parsing recipe supplementaries:integration/lapis_bricks_fd[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"supplementaries:lapis_bricks"}],"result":[{"count":4,"item":"minecraft:lapis_lazuli"}],"tool":{"type":"farmersdelight:tool_action","action":"pickaxe_dig"},"conditions":[{"modid":"farmersdelight","type":"forge:mod_loaded"},{"type":"supplementaries:flag","flag":"lapis_bricks"}]}: An ingredient entry needs either a tag or an item
-[13:41:27] [WARN] Error parsing recipe supplementaries:integration/ash_bricks_fd[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"supplementaries:ash_bricks"}],"result":[{"count":4,"item":"supplementaries:ash_brick"}],"tool":{"type":"farmersdelight:tool_action","action":"pickaxe_dig"},"conditions":[{"modid":"farmersdelight","type":"forge:mod_loaded"},{"type":"supplementaries:flag","flag":"ash_bricks"}]}: An ingredient entry needs either a tag or an item
-[13:41:27] [INFO] Added 17 recipes, removed 0 recipes, modified 0 recipes, with 4 failed recipes in 114.4 ms
-[13:41:33] [INFO] Server resource reload complete!
+[21:47:10] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[21:47:10] [INIT] Loaded plugins:
+[21:47:10] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[21:47:10] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[21:47:10] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[21:47:10] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[21:47:10] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[21:47:10] [INFO] Loaded script server_scripts:EggInfo.js in 0.005 s
+[21:47:10] [INFO] Loaded script server_scripts:Pickpocket.js in 0.009 s
+[21:47:10] [INFO] Loaded script server_scripts:Quests.js in 0.002 s
+[21:47:10] [INFO] Loaded script server_scripts:recipes/JoeCoins.js in 0.001 s
+[21:47:10] [INFO] Loaded script server_scripts:recipes/Sheets.js in 0.003 s
+[21:47:10] [INFO] Loaded script server_scripts:recipes/Shrinkifier.js in 0.001 s
+[21:47:10] [INFO] Loaded script server_scripts:recipes/Wallet.js in 0.0 s
+[21:47:10] [INFO] Loaded script server_scripts:Shrinkifier.js in 0.006 s
+[21:47:10] [INFO] Loaded script server_scripts:StarterKit.js in 0.001 s
+[21:47:10] [INFO] Loaded script server_scripts:Wallet.js in 0.002 s
+[21:47:10] [INFO] Loaded 10/10 KubeJS server scripts in 0.045 s with 0 errors and 0 warnings
+[21:47:10] [INFO] Scripts loaded
+[21:47:10] [INFO] Initializing recipe event...
+[21:47:30] [INFO] Processing recipes...
+[21:47:30] [WARN] Failed to parse recipe 'create_cobblemon:shapeless/lid_feather_dye[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[21:47:30] [WARN] Failed to parse recipe 'incendium:upgrade_elytra[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[21:47:30] [INFO] Found 18669 recipes in 212.7 ms
+[21:47:30] [INFO] Posted recipe events in 24.09 ms
+[21:47:30] [WARN] Error parsing recipe create_cobblemon:shapeless/lid_feather_dye[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","ingredients":[{"item":"create_cobblemon:sky_tumblestone_lid"},{"item":"minecraft:light_blue_dye"}],"result":{"item":"create_cobblemon:feather_ball_lid","count":1}}: Unknown item 'create_cobblemon:feather_ball_lid'
+[21:47:30] [WARN] Error parsing recipe create_cobblemon:assembly/sequenced_assembly_cherish_ball[create:sequenced_assembly]: {"type":"create:sequenced_assembly","ingredient":{"item":"create_cobblemon:red_ball_lid"},"transitionalItem":{"item":"create_cobblemon:incomplete_cherish_ball"},"sequence":[{"type":"create:deploying","ingredients":[{"item":"create_cobblemon:incomplete_cherish_ball"},[{"item":"create_cobblemon:red_ball_lid"}]],"results":[{"item":"create_cobblemon:incomplete_cherish_ball"}]},{"type":"create:deploying","ingredients":[{"item":"create_cobblemon:incomplete_cherish_ball"},[{"item":"minecraft:redstone"}]],"results":[{"item":"create_cobblemon:incomplete_cherish_ball"}]},{"type":"create:deploying","ingredients":[{"item":"create_cobblemon:incomplete_cherish_ball"},[{"item":"create:copper_nugget"}]],"results":[{"item":"create_cobblemon:incomplete_cherish_ball"}]}],"results":[{"item":"cobblemon:cherish_ball"}],"loops":1}: Unknown item 'create_cobblemon:incomplete_cherish_ball'
+[21:47:30] [WARN] Error parsing recipe supplementaries:integration/lapis_bricks_fd[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"supplementaries:lapis_bricks"}],"result":[{"count":4,"item":"minecraft:lapis_lazuli"}],"tool":{"type":"farmersdelight:tool_action","action":"pickaxe_dig"},"conditions":[{"modid":"farmersdelight","type":"forge:mod_loaded"},{"type":"supplementaries:flag","flag":"lapis_bricks"}]}: An ingredient entry needs either a tag or an item
+[21:47:30] [WARN] Error parsing recipe supplementaries:integration/ash_bricks_fd[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"supplementaries:ash_bricks"}],"result":[{"count":4,"item":"supplementaries:ash_brick"}],"tool":{"type":"farmersdelight:tool_action","action":"pickaxe_dig"},"conditions":[{"modid":"farmersdelight","type":"forge:mod_loaded"},{"type":"supplementaries:flag","flag":"ash_bricks"}]}: An ingredient entry needs either a tag or an item
+[21:47:30] [INFO] Added 17 recipes, removed 0 recipes, modified 0 recipes, with 4 failed recipes in 123.5 ms
+[21:47:39] [INFO] Server resource reload complete!

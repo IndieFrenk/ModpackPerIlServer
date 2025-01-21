@@ -40,6 +40,70 @@
             "discoveredTimestamp": 1737337951699,
             "caughtTimestamp": 1737337951699
           }
+        },
+        "buizel": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737397901788,
+            "caughtTimestamp": 1737397901788
+          }
+        },
+        "vulpix": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737404109328,
+            "caughtTimestamp": 1737404109328
+          }
+        },
+        "ponyta": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737408793519,
+            "caughtTimestamp": 1737408793519
+          }
+        },
+        "floatzel": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737409217540,
+            "caughtTimestamp": 1737409217540
+          }
+        },
+        "flaaffy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737409226305,
+            "caughtTimestamp": 1737409226305
+          }
+        },
+        "rapidash": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737412350647,
+            "caughtTimestamp": 1737412350647
+          }
+        },
+        "miltank": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737415097841,
+            "caughtTimestamp": 1737415097841
+          }
+        },
+        "magmar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737415515479,
+            "caughtTimestamp": 1737415515479
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -50,25 +114,40 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 7,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 7,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 26,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 7,
+    "totalPvWBattleVictoryCount": 26,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
+    "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "electric": 1,
-      "water": 1
+      "water": 2,
+      "fire": 3,
+      "normal": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,
       "cobblemon:caterpie": 1,
       "cobblemon:snorunt": 1,
       "cobblemon:pidgey": 1,
-      "cobblemon:misdreavus": 1
+      "cobblemon:misdreavus": 1,
+      "cobblemon:mareep": 1,
+      "cobblemon:stonjourner": 2,
+      "cobblemon:nymble": 1,
+      "cobblemon:zigzagoon": 1,
+      "cobblemon:tauros": 1,
+      "cobblemon:magikarp": 2,
+      "cobblemon:pidgeotto": 1,
+      "cobblemon:buizel": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:igglybuff": 1,
+      "cobblemon:eevee": 1,
+      "cobblemon:dubwool": 1
     },
     "aspectsCollected": {}
   }

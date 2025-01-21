@@ -48,6 +48,38 @@
             "discoveredTimestamp": 1737333656656,
             "caughtTimestamp": 1737333656656
           }
+        },
+        "torracat": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737392099969,
+            "caughtTimestamp": 1737392099969
+          }
+        },
+        "ampharos": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737392106746,
+            "caughtTimestamp": 1737392106746
+          }
+        },
+        "ponyta": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737397512889,
+            "caughtTimestamp": 1737397512889
+          }
+        },
+        "araquanid": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1737399321132,
+            "caughtTimestamp": 1737399321132
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -58,12 +90,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 4,
+    "totalCaptureCount": 6,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 12,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 19,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 12,
+    "totalPvWBattleVictoryCount": 19,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -74,15 +106,20 @@
       "flying": 1,
       "grass": 1,
       "fairy": 1,
-      "electric": 1
+      "electric": 1,
+      "fire": 1,
+      "water": 1,
+      "bug": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:mareep": 1,
       "cobblemon:poochyena": 1,
-      "cobblemon:bunnelby": 2,
-      "cobblemon:tauros": 2,
-      "cobblemon:gastly": 1,
-      "cobblemon:combee": 1
+      "cobblemon:bunnelby": 3,
+      "cobblemon:tauros": 3,
+      "cobblemon:gastly": 2,
+      "cobblemon:combee": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:sentret": 1
     },
     "aspectsCollected": {}
   }

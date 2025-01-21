@@ -7,7 +7,9 @@
 		8e51fc66-77e7-3152-84d0-7443528f167a: "member"
 		3503dbd2-904d-30d2-a7ea-c5f7126f6fe9: "member"
 		23f8f8cc-0e29-362e-942e-4452cdc09417: "member"
+		b95026c6-2468-3e05-9be5-9d3dbc2ea6c5: "member"
 		17444477-f1b6-3b9b-91bf-b55c61b1dc11: "member"
+		f0355b3f-b886-348e-bb3e-a6e5d4ea63ad: "invited"
 	}
 	properties: {
 		"ftbchunks:allow_explosions": 0b
@@ -38,6 +40,9 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1737329699089L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"FadeFox42\"}]}" }
 		{ from: "5841880c-4828-35ec-afe5-3c208650283f", date: 1737329894346L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"NabboPower\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1737329906238L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"NabboPower\"}]}" }
+		{ from: "5841880c-4828-35ec-afe5-3c208650283f", date: 1737408668712L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Matteo\"}]}" }
+		{ from: "5841880c-4828-35ec-afe5-3c208650283f", date: 1737408672529L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"EtherealNyx\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1737408681928L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Matteo\"}]}" }
 	]
 	extra: { }
 }
